@@ -33,8 +33,8 @@ def suma_iloczynow(a):
         w += w2
     return w
 
-print (suma_ciagu([1,2,3,4,5]))
-print (iloczyn_ciagu([1,2,3,4,5]))
-print (srednia_ar([1,2,3,4,5]))
-print (srednia_dod([-15,1,2,3,4,5]))
-print (suma_iloczynow([1,2,3,4,5]))
+print (suma_ciagu([6,7,8,9,25]))
+print (iloczyn_ciagu([6,7,8,9,45]))
+print (srednia_ar([6,7,8,9,5]))
+print (srednia_dod([-15,6,7,8,9,75]))
+print (suma_iloczynow([5,6,7,8,9]))
