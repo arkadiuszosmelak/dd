@@ -34,7 +34,7 @@ def suma_iloczynow(a):
     return w
 
 print (suma_ciagu([1,2,3,4,5]))
-print (iloczyn_ciagu([1,2,3,4,5]))
+print (iloczyn_ciagu([1,5,3,4,5]))
 print (srednia_ar([1,2,3,4,5]))
 print (srednia_dod([-15,1,2,3,4,5]))
 print (suma_iloczynow([1,2,3,4,5]))
