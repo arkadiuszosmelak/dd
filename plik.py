@@ -38,3 +38,4 @@ print (iloczyn_ciagu([6,7,8,9,45]))
 print (srednia_ar([6,7,8,9,5]))
 print (srednia_dod([-15,6,7,8,9,75]))
 print (suma_iloczynow([5,6,7,8,9]))
+chuju
